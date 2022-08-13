@@ -13,10 +13,6 @@ var weather = {
         )
         .then((response) => response.json())
         .then((data) => this.displayWeather(data))
-        if ((data) => this.displayWeather(data)){
-            alert("That is not a valid location. Please try again.")
-        }
-        
     },
     displayWeather: (data) => {
         const {name} = data; /* equivalent to const name = data.name */
