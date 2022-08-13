@@ -1,4 +1,4 @@
-# Weather-Website
+# Weather-App
 
 Weather App that I created using HTML, CSS, and Javascript.
 Utilizes OpenWeatherMap's API to fetch weather data.
